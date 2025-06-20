@@ -1,0 +1,119 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.15658612",
+        "identifierSource": "DOI"
+    },
+    "title": "(Dataset) Parkinson's disease in the spinal cord: an exploratory study to establish T2*w, MTR and diffusion-weighted imaging metric values",
+    "creators": [
+        {
+            "name": "Samuelle St-Onge"
+        },
+        {
+            "name": "Camille Coustaury"
+        },
+        {
+            "name": "Caroline Landelle"
+        },
+        {
+            "name": "Linda Solstrand Dahlberg"
+        },
+        {
+            "name": "Ovidiu Lungu"
+        },
+        {
+            "name": "Julien Doyon"
+        },
+        {
+            "name": "Benjamin De Leener"
+        }
+    ],
+    "description": "<h2>About</h2>\n\n<p>Dataset provided for NeuroLibre preprint.</p>\n\n<p>\u2764\ufe0f Living preprint: <a href=\"https://preprint.neurolibre.org/10.55458/neurolibre.00039\">https://preprint.neurolibre.org/10.55458/neurolibre.00039</a></p>\n\n<p>Author repo: <a href=\"https://github.com/samuellestonge/parkinsons-spinal-cord-MRI-metrics-paper\">https://github.com/samuellestonge/parkinsons-spinal-cord-MRI-metrics-paper</a><br>\nNeuroLibre fork: <a href=\"https://github.com/roboneurolibre/parkinsons-spinal-cord-mri-metrics-paper\">https://github.com/roboneurolibre/parkinsons-spinal-cord-mri-metrics-paper</a></p>\n\n<p></p><p>For details, please visit the corresponding <a href=\"https://github.com/neurolibre/neurolibre-reviews/issues/39\">NeuroLibre technical screening.</a></p><br>\n\n<p><strong><a href=\"https://neurolibre.org\" target=\"NeuroLibre\">https://neurolibre.org</a></strong></p><p></p>\n\n<p>\u2709\ufe0f <a href=\"mailto:info@neurolibre.org\">info@neurolibre.org</a></p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "cc-zero"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "neurolibre"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "ZIP"
+            ],
+            "size": 524.0,
+            "unit": {
+                "value": "kB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/records/15658613",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "Canadian"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "unknown"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2025-06-13 18:50:00",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2025-06-13 18:50:01",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "unknown"
+            }
+        }
+    ]
+}
